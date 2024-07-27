@@ -13,4 +13,6 @@ We hebben 3 verschillende sensoren om alle 5 de stoffen te meten. De gegevens va
 
 Dit prototype leek ons ideaal om de waterkwaliteit te meten van je vijver.
 
+U kan ons bereiken via deze email adressen: pascal.lefebvre@sudent.vives.be en fabrice.gouba@student.vives.be
+
 
