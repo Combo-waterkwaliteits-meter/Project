@@ -6,8 +6,8 @@ Welkom bij ons project! We hebben een combo waterkwaliteitsmeter gemaakt. Hierme
 Ons prototype bestaat uit deze delen:
 - Sensoren (PH,KH,NO2,NH3,NH4)
 - Microcontroller(STMICROELECTRONICS NUCLEO-F030R8)
-- WIFI-module
-- APP
+- WIFI-module (ESP-01 ESP8266 module)
+- APP (Aquaview)
 
 We hebben 3 verschillende sensoren om alle 5 de stoffen te meten. De gegevens van de sensoren worden dan verstuurd naar de microcontroller. De microcontroller controleerd dan de waarden via het programma dat we ingeladen hebben. Via de WIFI-module worden de waarden verstuurd naar de APP. Op de APP kan je dan zien welke stoffen de sensoren meten en wat de waarden ervan zijn. Als de waarden niet meer juist zijn of je moet de sensoren reinigen gaat er een melding naar je gsm verstuurd worden.
 
